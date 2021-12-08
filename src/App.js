@@ -1,9 +1,9 @@
-import ClassCounter from "./ClassCounter";
+import FunctionCounter from "./FunctionCounter";
 
 function App() {
     return (
         <div className="App" style={{ textAlign: "center" }}>
-            <ClassCounter />
+            <FunctionCounter />
         </div>
     );
 }
